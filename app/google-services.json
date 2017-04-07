@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "335662141076",
+    "firebase_url": "https://fir-chatandroid-784d5.firebaseio.com",
+    "project_id": "fir-chatandroid-784d5",
+    "storage_bucket": "fir-chatandroid-784d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335662141076:android:36f658ca8e1f30d0",
+        "android_client_info": {
+          "package_name": "com.dekoservidoni.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335662141076-9j1jdt53c99uene637q3rguc3b2g1d2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Y4hE80DBjN7bBa4EWxw75Ze9R6vYMfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

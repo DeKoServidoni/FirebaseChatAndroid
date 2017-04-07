@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/chat_message"
+        android:layout_width="match_parent"
+        android:layout_above="@+id/chat_input"
+        android:paddingBottom="20dp"
+        android:background="@android:color/darker_gray"
+        android:layout_height="match_parent"/>
+
+    <EditText
+        android:id="@+id/chat_input"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:inputType="text"
+        android:imeOptions="actionSend"
+        android:hint="@string/chat_input"/>
+
+</RelativeLayout>

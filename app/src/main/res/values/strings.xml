@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+
+    <!-- Login -->
+    <string name="prompt_username">Username</string>
+    <string name="action_sign_in">Enter!</string>
+    <string name="error_empty">Please fill your username!</string>
+    <string name="error_password">Please fill your password!</string>
+
+    <!-- Chat -->
+    <string name="chat_input">Enter message here!</string>
+    <string name="chat_init_error">Failed to connect to database!</string>
+    <string name="chat_logout">Logout</string>
+
+    <!-- Create account -->
+    <string name="prompt_password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="action_create">Create Account</string>
+    <string name="error_create_account">Failed to create account!</string>
+</resources>
